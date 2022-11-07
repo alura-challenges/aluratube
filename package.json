@@ -6,6 +6,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^1.35.7",
     "next": "12.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
