@@ -1,5 +1,14 @@
 {
     "name": "Vitor Kunz (vector)",
     "job": "Estudante",
-    "github":"vitorkunz"
+    "github":"vitorkunz",
+    "playlists":{
+        "jogos" :[
+            {
+                "titulo":"algum titulo",
+                "url":"url",
+                "thumb":"thumbnail do video"
+            }
+        ]
+    }
 }
